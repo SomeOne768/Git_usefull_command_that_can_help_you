@@ -12,6 +12,9 @@ git push
 git pull
 git config -[h | a]
 git config credential.
+git config pull.rebase false
+
+/!\ bien penser à pull avant de push sur le master svp
 
 
 Eviter de retaper ses identifiants:
